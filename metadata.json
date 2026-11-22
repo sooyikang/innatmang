@@ -1,0 +1,8 @@
+{
+  "name": "인낫망 | 사회학 사상사 지식그래프 아카이브",
+  "description": "마르크스를 지적 허브로 독일 관념론에서 20세기 비판이론, 구조주의, 문화사회학으로 이어지는 사회학 사상사 계보를 추상화·시각화한 디지털인문학 지식그래프 아카이브",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
